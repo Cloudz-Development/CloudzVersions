@@ -1,3 +1,4 @@
 {
-    "cloudz-ai": { "version": "0.0.1", "name": "CloudzAI" }
+    "cloudz-ai": { "version": "0.0.1", "name": "CloudzAI" },
+    "cloudz": { "version": "0.0.1", "name": "CloudzCore" }
 }
