@@ -1,4 +1,6 @@
 {
     "ai": { "version": "0.0.1", "name": "CloudzAI" },
-    "core": { "version": "0.0.1", "name": "CloudzCore" }
+    "core": { "version": "0.0.1", "name": "CloudzCore" },
+    "interiors": { "version": "0.0.1", "name": "CloudzInteriors" },
+    "houserobbery": { "version": "0.0.1", "name": "CloudzHouseRobbery" }
 }
